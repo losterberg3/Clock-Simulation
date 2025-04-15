@@ -1,6 +1,6 @@
 % Lars Osterberg
 %
-% for all my code please run it section by section
+% For all my code please run it section by section
 %
 %% Euler's method results compared with runge Kutta
 
